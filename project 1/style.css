@@ -1,0 +1,35 @@
+h1
+{
+    color:red;font-family:roboto;text-align: center;
+}
+.principal
+{
+    color:blue
+}
+#bordure-bleu
+{
+    border: 5px dashed blue;
+}
+/*CSS Pseudo classes*/
+   /* unvisited link */
+a:link {
+    color: tomato;
+}
+
+/* visited link */
+a:visited {
+    color: tomato;
+}
+
+/* mouse over element */
+div:hover {
+    color: tomato;
+} 
+  /* selected link */
+  a:active{
+    color: #0000FF;
+}
+div{
+    height: 150px;
+    width: 90%;
+}
